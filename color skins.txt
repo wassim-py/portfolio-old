@@ -1,0 +1,8 @@
+color skin 1 : #ee5253
+color skin 2 : #3742fa
+color skin 3 : #ffe169
+color skin 4 : #4834d4
+color skin 5 : #05c46b
+color skin 6 : #ff793f
+
+colorhuddle.com
